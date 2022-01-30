@@ -21,16 +21,28 @@ This is a heatmap that shows start time by weekday separated by gender.
 - Males follow the commute pattern most closly.
 - Females slightly follow the commute pattern.
 - Unknown genders have no pattern. 
-![Tripdurationgender](https://user-images.githubusercontent.com/90511014/151714170-8cfc6f90-9739-4c4f-84f4-cf635ae4225e.png)
+![starttimegender](https://user-images.githubusercontent.com/90511014/151715062-da660f2d-bb77-427e-bedf-7d0d44a6cdb2.png)
 
 This is a heatmap that shows the day of the trip by gender and usertype. 
 - There are no patterns with customers day of the week and gender.
 - There are significantly more male subscribers than the other genders. 
 - ![typedaygender](https://user-images.githubusercontent.com/90511014/151714357-97fd397c-d3a2-4a3d-ad37-7954031b0748.png)
 
+This is a bar chart that shows the starttime of each trip. 
+- This corresponds with the previous that shows pattern in commute. 
+- It also shows times that are less busy that the repairs can take place
+![Barstarttime](https://user-images.githubusercontent.com/90511014/151715528-a7fe12ec-2400-4518-ac31-9e31343feb6a.png)
+
+This shows the bikeIds that have been used the most. 
+- The darker bikes will need more attention and potentially more repairs. They should rotated to the lesser used areas. 
+- ![Bikeusage](https://user-images.githubusercontent.com/90511014/151715592-31263a18-6c3b-494f-be40-c4736ef9d658.png)
+
 
 ## Summary
-
+- Due to there being significntly more male bike riders that commute it may be a good idea to market the bikes in general as a recreational vehicle to expand the market. 
+- The next visulaization may be to look to see it the start and end locations coorespond with other landmarks or locations.
+- Another visulaization would be a correlation between age and start time and day. 
+- Another option would be to look at the profit by location to see if there are areas that should be marketed to more or if the prices may need to be adjusted.  
 
 
 
